@@ -11,3 +11,7 @@ import java.net.URL;
 import java.security.KeyStore;
 import java.security.SecureRandom;
 
+public class KubernetesClient {
+	
+}
+
